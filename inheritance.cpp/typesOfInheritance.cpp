@@ -22,7 +22,7 @@ parent
 child
  
 #4.hierarchical inheritance
-# #one parent -> multiple children
+# #one parent -> multiple children 
 
 #5.hybrid inheritance
 #mixture of all types of inheritance
